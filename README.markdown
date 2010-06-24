@@ -1,3 +1,6 @@
+# Ruby on Rails Tutorial: ProjectOne
+This is the first application for tutorial
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create 
